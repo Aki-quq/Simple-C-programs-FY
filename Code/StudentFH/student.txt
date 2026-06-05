@@ -1,0 +1,32 @@
+Student number: 2026-6969-AI
+ Student name: Mabang O. Fukiko
+ Course: BSN 1-1
+
+Student number: 2026-7173-BT
+ Student name: Mal Aki T. Teko
+ Course: BSCoE 1-5
+
+Student number: 2026-1234-MN
+ Student name: Matt Amboq A. Fukiko
+ Course: BSIT 1-5
+
+Student number: 2026-4444-LN
+ Student name: Kai Ynen O. Fukiko
+ Course: BSP 1-2
+
+Student number: 2025-1111-BT
+ Student name: Shu Bomyu T. Teko
+ Course: BSEE 1-2
+
+Student number: 2025-6769-MN
+ Student name: Gabriel Ivan T. Morauda
+ Course: BSCS 1-4
+
+Student number: 2025-05333-M
+ Student name: Reign Allyson T. Lasco
+ Course: BSCS 1-4
+
+Student number: 2025-1111-MN
+ Student name: Hanna Granfil
+ Course: BSCS 1-4
+
